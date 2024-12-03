@@ -9,6 +9,6 @@ for beer_num in range(3, -1 ,-1):
     else:
         new_num =beer_num -1
         if new_num == 1:
-            word = "bottle"
+            word = "botTLE"
         print(new_num, word, "of beer on the wall.")
     print()
